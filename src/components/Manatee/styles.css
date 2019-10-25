@@ -1,0 +1,12 @@
+.Manatee {
+    display: inline-flex;
+    width: 20vw;
+    height:200px;
+    background-color: darkslategray;
+    color:salmon;
+    border:1px solid black;
+    justify-content: center;
+    align-items: center;
+    border-radius:2px;
+    box-shadow:3px 3px 5px #bada55;
+}
